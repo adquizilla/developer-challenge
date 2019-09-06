@@ -17,4 +17,25 @@ SLC0001 - SLC informa movimentos bilaterais de liquidação multilateral no dia
 # O desafio
 
 ***Consiste em criar uma rotina que irá carregar o arquivo SLC0001-modelo.xml que se encontra nesse repositório para 
-um banco de dados e disponibilizar em um micro serviço.***
+um banco de dados e disponibilizar em uma API.***
+
+## Observações
+
+* **O candidato é livre para escolher qual tecnologia vai usar, mas isso também será avaliado.**
+* **Entregar o projeto em um repositório público (github ou bitbucket) com o código fonte.**
+* **Criar um arquivo README.md na raiz do projeto, com uma breve descrição sobre a solução implementada e instruções de execução do projeto.**
+
+## Requisitos
+* **Banco de dados em memória. (Exemplo: HSQLDB, H2, etc)**
+* **Processo de build via Gradle ou Maven.**
+* **Caso utilize Java, que seja apartir da versão 1.8** 
+* **Testes unitários. (Exemplo: JUnit)**
+
+## Requisitos desejáveis
+* **Entregar a API rodando em algum host (Exemplo: Heroku, AWS, etc) na porta 80 ou 443.**
+
+## O que será avaliado
+* **Qualidade de código. (Simplicidade x uso de padrões)**
+* **Boas práticas. (Exemplo: OO ou FP / CleanCode**
+* **Escrita dos testes. (Assertividade, simplicidade e relevância)**
+
