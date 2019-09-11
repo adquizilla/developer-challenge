@@ -25,14 +25,12 @@ um banco de dados e disponibilizar em uma API.***
 * **Entregar o projeto em um repositório público (github ou bitbucket) com o código fonte.**
 * **Criar um arquivo README.md na raiz do projeto, com uma breve descrição sobre a solução implementada e instruções de execução do projeto.**
 
-## Requisitos
+## Requisitos desejáveis
+* **Entregar a API rodando em algum host (Exemplo: Heroku, AWS, etc) na porta 80 ou 443.**
 * **Banco de dados em memória. (Exemplo: HSQLDB, H2, etc)**
 * **Processo de build via Gradle ou Maven.**
 * **Caso utilize Java, que seja apartir da versão 1.8** 
 * **Testes unitários. (Exemplo: JUnit)**
-
-## Requisitos desejáveis
-* **Entregar a API rodando em algum host (Exemplo: Heroku, AWS, etc) na porta 80 ou 443.**
 
 ## O que será avaliado
 * **Qualidade de código. (Simplicidade x uso de padrões)**
