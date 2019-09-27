@@ -22,7 +22,7 @@ um banco de dados e disponibilizar em uma API.***
 ## Observações
 
 * **O candidato é livre para escolher qual tecnologia vai usar, mas isso também será avaliado.**
-* **Entregar o projeto em um repositório público (github ou bitbucket) com o código fonte.**
+* **Entregar o projeto em um repositório público (github) com o código fonte.**
 * **Criar um arquivo README.md na raiz do projeto, com uma breve descrição sobre a solução implementada e instruções de execução do projeto.**
 
 ## Requisitos desejáveis
